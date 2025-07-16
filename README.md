@@ -31,4 +31,7 @@ I'm yawogan abraham Nyuiadzi, a student at Brigham Young University-Idaho intere
 - Here is my [facebook](https://www.facebook.com/profile.php?id=61562232477552 ) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
-
+https://github.com/abrahamnyuiadzi/weather
+https://github.com/abrahamnyuiadzi/cooking-school
+work with team project:
+https://github.com/morganmallen/WDD-430-Group-6-Project
