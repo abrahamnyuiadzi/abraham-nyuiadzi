@@ -19,7 +19,7 @@ I'm yawogan abraham Nyuiadzi, a student at Brigham Young University-Idaho intere
 - Skills: have some skills of BDA to manage database and also  entry clerck , using LDS.org sofware to manage finances .
 
   <div> 
-  <img src=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg widht="50px" heigh="50px">
+  <img src=https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg  alt= "" width:"50px" height:"50px">
     
   </div>
 
