@@ -20,7 +20,9 @@ I'm yawogan abraham Nyuiadzi, a student at Brigham Young University-Idaho intere
 
   <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"  title="figma" alt="React" width="40" height="40"/>&nbsp;
-    
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title="figma" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="figma" alt="React" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="figma" alt="React" width="40" height="40"/>&nbsp;
   </div>
 
 ## Let's Connect!
